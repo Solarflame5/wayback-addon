@@ -1,0 +1,24 @@
+{
+    "manifest_version": 2,
+    "name": "Time Travel",
+    "version": "1.0",
+    "browser_specific_settings": {
+        "gecko": {
+            "update_url": "https://raw.githubusercontent.com/Solarflame5/wayback-addon/master/updates.json"
+        }
+    },
+
+    "icons": {
+        "48": "icons/timetravel.svg",
+        "96": "icons/timetravel.svg"
+    },
+
+    "permissions": [
+        "menus"
+    ],
+
+    "background": {
+        "scripts": ["context_menu.js"],
+        "persistent": false
+    }
+}
