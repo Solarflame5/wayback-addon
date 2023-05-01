@@ -1,0 +1,12 @@
+{
+    "addons": {
+        "{85cb0565-8f34-4a90-b4f6-7eac07000bc4}": {
+            "updates": [
+                    {
+                        "version": "1.1",
+                        "update_link": "https://github.com/Solarflame5/wayback-addon/releases/download/v1.1/time-travel-v1.1.xpi"
+                    }
+                ]
+        }
+    }
+}
